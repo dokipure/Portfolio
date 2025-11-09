@@ -1,16 +1,16 @@
-# 🌸 Dorcas Adebayor | Portfolio Website
+# 🌸 Portfolio
 
-Welcome to my personal portfolio website!  
-This project showcases my skills, projects, and experience as a **Frontend Developer**.  
+Hey and Welcome!!!
+This is my personal website, a space were you can view all projects I built during my first and second year in school. 
 
-The goal of this portfolio is to present my work in a simple, elegant, and responsive design that works beautifully on any device.
+The goal is to have a portfolio website were I can present school projects I've built and future projects in a simple, elegant, and responsive design that can be access anywwhere and on any device.
 
 ---
 
 ## 🧠 Technologies Used
 - **HTML5** – for the structure and content of the website  
 - **CSS3** – for design, layout, and responsive styling  
-- **JavaScript (Vanilla JS)** – for basic interactivity and dynamic features  
+- **JavaScript** – for basic interactivity and dynamic features  
 
 ---
 
@@ -21,7 +21,7 @@ The goal of this portfolio is to present my work in a simple, elegant, and respo
 
 ## 💡 Features
 - Fully responsive design (mobile-friendly)  
-- Smooth navigation and clean layout  
+- Smooth to navigate and with a clean layout 
 - Downloadable CV link  
 - Sections for About, Experience, Projects, and Contact  
 
@@ -35,7 +35,7 @@ The goal of this portfolio is to present my work in a simple, elegant, and respo
 ---
 
 ## 📫 Contact Me
-I’m always open to collaboration and new opportunities.  
+I’m always open to collaboration and ready for new opportunities.  
 
 - **📧 Email:** puredorki90s@gmail.com  
 - **💼 LinkedIn:** [Dorcas Adebayor](https://www.linkedin.com/in/dorcas-adebayor-552977304/)  
