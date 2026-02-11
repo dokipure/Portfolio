@@ -272,9 +272,10 @@ body {
 }
 
 .project-card img {
-  width: 100%;
-  height: auto;
-  object-fit: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 450px;
 }
 
 .project-card h3 {
